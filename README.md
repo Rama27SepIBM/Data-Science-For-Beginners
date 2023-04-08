@@ -111,5 +111,6 @@ Our team produces other curricula! Check out:
 - [Web Dev for Beginners](https://aka.ms/webdev-beginners)
 
 ## DSA
-* [DAY_81_Stacks_Queues](./DSA/DSA_81_Stacks_Queues.ipynb)
-* [DAY_82_Stacks_DeQueues](DSA/DSA_82_Stacks_DeQueues.ipynb)
+* [Day_80_DSA_Stacks_2](DSA/Day_80_DSA_Stacks_2.ipynb)
+* [Day_81_Stacks_Queues](DSA/DSA_81_Stacks_Queues.ipynb)
+* [Day_82_Stacks_DeQueues](DSA/DSA_82_Stacks_DeQueues.ipynb)
