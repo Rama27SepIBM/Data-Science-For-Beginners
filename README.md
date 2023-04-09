@@ -111,6 +111,7 @@ Our team produces other curricula! Check out:
 - [Web Dev for Beginners](https://aka.ms/webdev-beginners)
 
 ## DSA
+* [Day_76_DSA_Contest](DSA/Contest_Discussion_Psudocode/Class_14___contest_2%20(2).pdf)
 * [Day_79_DSA_Stacks_1](DSA/Day_79_DSA_Stacks_1.ipynb)
 * [Day_80_DSA_Stacks_2](DSA/Day_80_DSA_Stacks_2.ipynb)
 * [Day_81_Stacks_Queues](DSA/DSA_81_Stacks_Queues.ipynb)
